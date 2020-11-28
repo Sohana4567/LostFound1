@@ -1,0 +1,93 @@
+<!doctype html><html lang="en"> <head> <title>JobBoard &mdash; Website Template by Colorlib</title> <meta charset="utf-
+8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <link rel="stylesheet"
+href="css/custom-bs.css"> <link rel="stylesheet" href="css/jquery.fancybox.min.css"> <link rel="stylesheet" href="css/bootstrap￾select.min.css"> <link rel="stylesheet" href="fonts/icomoon/style.css"> <link rel="stylesheet" href="fonts/line-icons/style.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css"> <link rel="stylesheet" href="css/animate.min.css"> <link rel="stylesheet"
+href="css/quill.snow.css"> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> <script
+src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script
+src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script> <!-- MAIN CSS --> <link rel="stylesheet"
+href="css/style.css"> </head> <body id="top"> <!-- NAVBAR --> <header class="site-navbar mt-3"> <div class="container￾fluid"> <div class="row align-items-center"> <div class="site-logo col-6"><a href="index.html">Lost&Found</a></div> <nav
+class="mx-auto site-navigation"> <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0"> <li><a href="index.html"
+class="nav-link"><font size="10">Home</font></a></li> <li class="has-children"> <a href="services.html"><font size="10">
+Pages</font></a> <ul class="dropdown"> <li><a href="faq.html">FNQ</a></li> <li><a href="gallery.html">Successfull
+Items</a></li> </ul> </li> </ul> </nav> <div class="right-cta-menu text-right d-flex aligin-items-center col-6"> <div
+class="ml-auto"> <a href="#" class="btn btn-primary border-width-2 d-none d-lg-inline-block" data-toggle="modal" data￾target="#myModal"><span class="mr-2 icon-lock_outline"></span>Log In</a> </div> </div> </div> </div> </header> <!--
+HOME --> <section class="section-hero overlay inner-page bg-image" style="background-image: url('images/hero_1.jpg');"
+id="home-section"> <div class="container"> <div class="row"> <div class="col-md-7"> <h1 class="text-white font-weight￾bold">Sign Up/Login</h1> <div class="custom-breadcrumbs"> <a href="#">Home</a> <span class="mx-2 slash">/</span>
+<span class="text-white"><strong>Log In</strong></span> </div> </div> </div> </div> </section> <section class="site￾section"> <div class="container"> <div class="row"> <div class="col-lg-6 mb-5"> <h2 class="mb-4">Sign Up For Lost
+Item</h2> <form action="#" class="p-4 border rounded"> <div class="row form-group"> <div class="col-md-12 mb-3 mb-md-
+0"> <label class="text-black" for="fname">Email</label> <input type="text" id="fname" class="form-control"
+placeholder="Email address" required/> </div> </div> <div class="row form-group"> <div class="col-md-12 mb-3 mb-md-0">
+<label class="text-black" for="fname">Username</label> <input type="text" id="fname" class="form-control"
+placeholder="username" required/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-
+0"> <label class="text-black" for="fname">Phone Number</label> <input type="text" id="fname" name="contact"class="form￾control" placeholder="Phone Number" required/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12
+mb-3 mb-md-0"> <label class="text-black" for="fname">Address</label> <input type="text" id="adr" name="address"
+placeholder="542 W. 15th Street" class="form-control"/> </div> </div> <div class="row form-group mb-4"> <div class="col￾md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">country</label> <input type="text" id="city" name="city"
+placeholder="country" class="form-control"/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3
+mb-md-0"> <label class="text-black" for="fname">State</label> <input type="text" id="state" name="state"
+placeholder="state" class="form-control"/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb￾md-0"> <label class="text-black" for="fname">Zip</label> <input type="text" id="zip" name="zip" placeholder="zip"
+class="form-control"/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label
+class="text-black" for="fname">Items Name</label> <input type="text" id="fname" class="form-control" placeholder="items
+name" required/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label
+class="text-black" for="fname">Category</label> <select class="browser-default custom-select"> <option
+selected>category</option> <option value="1">One</option> <option value="2">Two</option> <option
+value="3">Three</option> </select> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-
+0"> <label class="text-black" for="fname">Date</label> <input type="date" id="dob" placeholder="date" class="form￾control"/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black"
+for="fname">Time</label> <input id="appt-time" type="time" name="appt-time" value="12:00"> </div> </div> <div
+class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Lost
+Address</label> <input type="text" id="adr" name="address" placeholder="542 W. 15th Street" class="form-control"/> </div>
+</div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black"
+for="fname">Description</label> <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"
+class="form-control"></textarea> </div> </div> <div class="row form-group"> <div class="col-md-12"> <input type="submit"
+value="Register" class="btn px-4 btn-primary text-white" onclick="myConfirm()"> </div> </div> </form> </div> <div
+class="col-lg-6"> <h2 class="mb-4">Sign Up For Found Items</h2> <form action="#" class="p-4 border rounded"> <div
+class="row form-group"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Email</label> <input
+type="Email" id="fname" class="form-control" placeholder="Email address" required/> </div> </div> <div class="row form￾group"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Username</label> <input type="text"
+id="fname" class="form-control" placeholder="username" required/> </div> </div> <div class="row form-group mb-4"> <div
+class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Phone Number</label> <input type="Number"
+id="fname" name="contact"class="form-control" placeholder="Phone Number" required/> </div> </div> <div class="row formgroup mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Found Address</label> <input
+type="Address" id="adr" name="address" placeholder="542 W. 15th Street" class="form-control"/> </div> </div> <div
+class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">State</label>
+<input type="State" id="state" name="state" placeholder="state" class="form-control"/> </div> </div> <div class="row formgroup mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Zip</label> <input type="Zip"
+id="zip" name="zip" placeholder="zip" class="form-control"/> </div> </div> <div class="row form-group mb-4"> <div
+class="col-md-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Items Name</label> <input type="text" id="fname"
+class="form-control" placeholder="items name" required/> </div> </div> <div class="row form-group mb-4"> <div class="colmd-12 mb-3 mb-md-0"> <label class="text-black" for="fname">Category</label> <select class="browser-default customselect"> <option selected>category</option> <option value="1">One</option> <option value="2">Two</option> <option
+value="3">Three</option> </select> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-
+0"> <label class="text-black" for="fname">Date</label> <input type="date" id="dob" placeholder="date" class="formcontrol"/> </div> </div> <div class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black"
+for="fname">Time</label> <input id="appt-time" type="time" name="appt-time" value="12:00"> </div> </div> <div
+class="row form-group mb-4"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black"
+for="fname">Description</label> <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"
+class="form-control"></textarea> </div> </div> <div class="row form-group"> <div class="col-md-12"> <input type="submit"
+value="Register" class="btn px-4 btn-primary text-white"> </div> </div> </form> </div> </div> </div> </section> <footer
+class="site-footer"> <a href="#top" class="smoothscroll scroll-top"> <span class="icon-keyboard_arrow_up"></span> </a> <div
+class="container"> <div class="row mb-5"> <div class="col-6 col-md-3 mb-4 mb-md-0"> <h3>Search Trending</h3> <ul
+class="list-unstyled"> <li><a href="#">Home</a></li> <li><a href="#">Successfull Items</a></li> </ul> </div> <div
+class="col-6 col-md-3 mb-4 mb-md-0"> <h3>Contact Us</h3> <div class="footer-social"> <a href="#"><span class="iconfacebook"></span></a> <a href="#"><span class="icon-twitter"></span></a> <a href="#"><span class="icon-instagram">
+</span></a> <a href="#"><span class="icon-linkedin"></span></a> </div> </div> </div> <div class="row text-center"> <div
+class="col-12"> <p class="copyright"><small> <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0.
+--> Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i
+class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a> <!--
+Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small></p> </div> </div> </div> </footer>
+</div> <!-- SCRIPTS --> <script src="js/jquery.min.js"></script> <script src="js/bootstrap.bundle.min.js"></script> <script
+src="js/isotope.pkgd.min.js"></script> <script src="js/stickyfill.min.js"></script> <script src="js/jquery.fancybox.min.js"></script>
+<script src="js/jquery.easing.1.3.js"></script> <script src="js/jquery.waypoints.min.js"></script> <script
+src="js/jquery.animateNumber.min.js"></script> <script src="js/owl.carousel.min.js"></script> <script src="js/quill.min.js">
+</script> <script src="js/bootstrap-select.min.js"></script> <script src="js/custom.js"></script> <!-- The Modal --> <div
+class="modal fade" id="myModal"> <div class="modal-dialog modal-dialog-centered"> <div class="modal-content"> <!-- Modal
+Header --> <div class="modal-header"> <h4 class="modal-title">ENTER YOUR REFERENCE ID</h4> <button type="button"
+class="close" data-dismiss="modal">&times;</button> </div> <!-- Modal body --> <div class="modal-body"> <form
+action='#'> <div class="row form-group"> <div class="col-md-12 mb-3 mb-md-0"> <label class="text-black"
+for="fname">Reference Number</label> <input type="text" id="fname" class="form-control" placeholder="animateNumber">
+</div> </div> <div class="row form-group"> <div class="col-md-12"> <input type="submit" value="Log In" class="btn px-4
+btn-primary text-white"> </div> </div> </form> </div> <!-- Modal footer --> <div class="modal-footer"> <button
+type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> </div> </div> </div> </div> <script> function
+myConfirm() {
+var txt;
+if (confirm("Your Id!")) {
+txt = "You pressed OK!";
+} else {
+txt = "You pressed Cancel!";
+}
+document.getElementById("demo").innerHTML = txt;
+}
+</script> </body></html>
